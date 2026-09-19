@@ -151,10 +151,15 @@ As the project continues, we plan to improve and develop more parts of the appli
 👩‍💻 Project Information
 
 Project Name: Rogue Market
+
 Project Type: Online Marketplace Web Application
+
 Prototype Tool: Figma
+
 Developer: Mariella Arao
+
 Course: Bachelor of Science in Information Technology
+
 School: J.H. Cerilles State College
 
 Note
